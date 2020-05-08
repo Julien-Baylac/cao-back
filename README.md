@@ -52,4 +52,4 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-<a href='https://www.casimages.com/i/200508080918819211.png.html' target='_blank' title='Mon image'><img src='https://nsa40.casimages.com/img/2020/05/08/200508080918819211.png' border='0' alt='Mon image' /></a>
+
