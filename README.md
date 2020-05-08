@@ -6,6 +6,8 @@
 
 > frontend project there : https://github.com/Julien-Baylac/cao-back
 
+> If you want to download the full documentation you can get it there : https://www.fichier-pdf.fr/2020/05/08/cabanes-a-oiseaux/cabanes-a-oiseaux.pdf
+
 # Presentation du projet
 
 > My web site : http://julienbaylac.com / Official web site : http://cabanesaoiseaux.fr/
