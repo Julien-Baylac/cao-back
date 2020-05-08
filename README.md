@@ -40,16 +40,3 @@ L’idée de l’application est de trouver des lieux apaisants près de chez so
 
 <a href='https://www.casimages.com/i/20050808091986377.png.html' target='_blank' title='Mon image'><img src='https://nsa40.casimages.com/img/2020/05/08/20050808091986377.png' border='0' alt='Mon image' /></a>
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
